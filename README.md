@@ -1,4 +1,4 @@
-# CTF Writeups
+# Writeups
 
 This repository contains my personal writeups for security-related challenges and problems.
 
